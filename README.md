@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 Download sample files from https://github.com/ghuawhu/ENF-WHU-Dataset:
 
 ```
-./bin/download-examnple-files
+./bin/download-example-files
 ```
 
 ### Run
